@@ -6,7 +6,7 @@ public class Account {
     String password;
     float balance;
 
-    public Account(String username, String password, int balance) {
+    public Account(String username, String password, float balance) {
         this.username = username;
         this.password = password;
         this.balance = balance;
