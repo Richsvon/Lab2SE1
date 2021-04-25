@@ -36,6 +36,6 @@ public class Account {
     }
 
     public void setBalance(float balance) {
-        this.balance = balance;
+        this.balance = 0;
     }
 }
